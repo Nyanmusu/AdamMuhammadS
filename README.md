@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdamMuhammadS
+- 👋 Hi, I’m A
 - 👀 I’m interested in Mobile app
 - 🌱 I’m currently learning C and python
 
